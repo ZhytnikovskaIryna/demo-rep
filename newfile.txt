@@ -1,3 +1,5 @@
 tratata
-next line for pusjing
+cccccccc
 lets learn how to push
+
+now we test git gui
